@@ -8,3 +8,5 @@ categories:
 
 ## Onder de rook van Amsterdam
 Mooier wordt het niet, het is deze week tropisch, en heb door wat geschuif bijna de hele week vrij. Bergen lekker eten ingeslagen in Schellingwoude en met Steffi hier lekker rondjes aan’t zeilen en boekjes aan het lezen. Veel dank aan de Breed-jes
+
+<!--more-->
