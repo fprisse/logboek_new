@@ -15,7 +15,7 @@ Michael Porter points this out in his 2011 venture into healthcare economics: "H
 
 For more:[https://www.vbhc.nl/what-is-value-based-healthcare](https://www.vbhc.nl/what-is-value-based-healthcare)
 
-==
+<!--more-->
 
 In the midst of the national health-care debate, Planet Money & This American Life tried to figure out why health care costs keep rising, and how health insurance works (or rather how it does not work).
 
