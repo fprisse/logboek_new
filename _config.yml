@@ -10,6 +10,8 @@ theme: "minima"
 
 rss: rss
 
+excerpt_separator: <!--more-->
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
