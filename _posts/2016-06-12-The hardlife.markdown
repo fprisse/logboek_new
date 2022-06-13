@@ -8,3 +8,5 @@ categories:
 
 ## Cowes – st Malo Race
 Afgelopen weekend weer mogen bemannen aan boord van de winsome, ditmaal de Cowes – st Malo Race. Het uitgebreide verslag van Pieter Kohne staat hier. Het was weer heel fijn aan boord met Harry, Leen, Robin, Pieter Kohne, en de gebroeders van Balkom. Heel veel dank Harry voor deze niet aflatende boost aan de kwaliteit van ons leven.
+
+<!--more-->
