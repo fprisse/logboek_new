@@ -11,7 +11,7 @@ It should be a public service, but today it is a business. As much as we don't w
 
 Michael Porter points this out in his 2011 venture into healthcare economics: "Healthcare is organised around the exception rather than the rule" and "The way we are organised is the way we are trained rather the stuff we do"
 
-{% include youtubePlayer.html id="Z3fKyWydweo" %}
+{% include youtube.html id=Z3fKyWydweo %}
 
 For more:[https://www.vbhc.nl/what-is-value-based-healthcare](https://www.vbhc.nl/what-is-value-based-healthcare)
 
